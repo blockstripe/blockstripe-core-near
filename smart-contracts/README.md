@@ -7,11 +7,11 @@ This contract is written on Rust contains code for BlockStripe for NEAR blockcha
 ---
 Changelog
 ---
-1. 0.0.1 - beta
+- 0.0.1 (beta)
 
 ---
 Build and run
 ---
-`- ./build.sh`
-`- ./deploy.sh`
-`cargo test`
+- `./build.sh`
+- `./deploy.sh`
+- `cargo test`
