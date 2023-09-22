@@ -1,0 +1,5 @@
+*.lock
+*-lock.json
+node_modules
+neardev
+target
