@@ -1,0 +1,6 @@
+*.lock
+*-lock.json
+*.env
+.parcel-cache
+node_modules
+dist
