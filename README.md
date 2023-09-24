@@ -10,8 +10,11 @@ Changelog
 - 0.0.1 (beta)
 
 ---
-Build and run
+Build and Run
 ---
 - `./build.sh`
+
+---
+Deploy
+---
 - `./deploy.sh`
-- `cargo test`
