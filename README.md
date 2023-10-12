@@ -1,20 +1,10 @@
 # BlockStripe Smart Contract for NEAR
 
----
-This contract is written on Rust contains code for BlockStripe for NEAR blockchain.
----
+#### Description
+- Smart Contract written on Rust for NEAR blockchain for BlockStripe DeFi tool. BlockStripe allows users to execute their payments after certain period of time means everybody can config own payment execution job.
 
----
-Changelog
----
-- 0.0.1 (beta)
-
----
-Build and Run
----
+#### Build and Run
 - `./build.sh`
 
----
-Deploy
----
+#### Deploy
 - `./deploy.sh`
